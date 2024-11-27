@@ -7,23 +7,16 @@ This project is a Python-based tool that allows users to scrape data from websit
 - Display the scraped content in a list format
 - Allow users to select and save text and images
 - User-friendly graphical interface
-- Can be run as a Python script or as an independent EXE application
 
-## Technologies Used
-- **Python 3.x**
+## Details
+- **Python 3.13**
 - **Tkinter** (for GUI)
 - **BeautifulSoup** (for parsing HTML data)
 - **Playwright** (for automated page navigation and scraping)
 - **Requests** (for downloading web images)
 - **Pillow** (for saving images)
 
-### Download the EXE version of the application:
-You can download the EXE version of the application from [this link](https://drive.google.com/file/d/1FePyIrp2ck--mTvzq2Q8wotbtC_Usyru/view?usp=sharing).
-
-### Requirements
-#### For Python Script:
-- Python 3.x must be installed.
-- Install the required Python packages by running the following command:
+### Download the Snag.exe
+You can download the snag.exe from [this link](https://drive.google.com/file/d/1FePyIrp2ck--mTvzq2Q8wotbtC_Usyru/view?usp=sharing).
 
 ```bash
-pip install -r requirements.txt
