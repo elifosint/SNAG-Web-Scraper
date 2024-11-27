@@ -17,6 +17,6 @@ This project is a Python-based tool that allows users to scrape data from websit
 - **Pillow** (for saving images)
 
 ### Download the Snag.exe
-You can download the snag.exe from [this link](https://drive.google.com/file/d/1FePyIrp2ck--mTvzq2Q8wotbtC_Usyru/view?usp=sharing).
+You can download the snag.exe from [this link](https://drive.google.com/file/d/1-kNlBcMPaHHtpYUjJflZl9ZHp0pMTozG/view?usp=sharing).
 
 ```bash
